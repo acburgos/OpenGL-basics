@@ -1,0 +1,4 @@
+#ignore de archivos compilados o semicompilados
+*.[oa]
+#ignore de archivos temporales
+*~
